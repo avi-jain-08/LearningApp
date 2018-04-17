@@ -1,0 +1,6 @@
+c:\users\evanthjainh\documents\visual studio 2013\Projects\LearningApp\LearningApp\bin\Debug\LearningApp.exe.config
+c:\users\evanthjainh\documents\visual studio 2013\Projects\LearningApp\LearningApp\bin\Debug\LearningApp.exe
+c:\users\evanthjainh\documents\visual studio 2013\Projects\LearningApp\LearningApp\bin\Debug\LearningApp.pdb
+c:\users\evanthjainh\documents\visual studio 2013\Projects\LearningApp\LearningApp\obj\Debug\LearningApp.csprojResolveAssemblyReference.cache
+c:\users\evanthjainh\documents\visual studio 2013\Projects\LearningApp\LearningApp\obj\Debug\LearningApp.exe
+c:\users\evanthjainh\documents\visual studio 2013\Projects\LearningApp\LearningApp\obj\Debug\LearningApp.pdb
